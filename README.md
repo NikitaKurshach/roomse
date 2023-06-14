@@ -1,2 +1,2 @@
 # Курсовая
-### Сайт демонстрации: <a href="nikita.avoteam.ru">nikita.avoteam.ru<a>
+### Сайт демонстрации: <a href="https://nikita.avoteam.ru">nikita.avoteam.ru<a>
